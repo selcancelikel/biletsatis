@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$db_host = "sql204.epizy.com"; //127.0.0.1 //sql13.bilmemnehost.com
+$db_host = "sql204.epizy.com"; 
 $db_user = "epiz_34256382";
 $db_pass = "9833YGl12AdmHE";
 $db_name = "epiz_34256382_web";
